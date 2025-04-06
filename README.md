@@ -67,45 +67,45 @@
 <h2>Front-End:</h2>
 
 <div class="dev">
-    <img src="./img/logo-html.png" alt="logo HTML">
+    <img src="./img/logo-html.png" alt="logo HTML" width="3%">
     <p>Linguagem de marcação usada para estruturar conteúdo das páginas Web.</p>
     <hr>
-    <img src="./img/logo-css.png" alt="logo CSS">
+    <img src="./img/logo-css.png" alt="logo CSS" width="3%">
     <p>Linguagem para estilizar páginas Web (cores, fontes, layouts, animações, responsividade).</p>
     <hr>
-    <img src="./img/logo-js.png" alt="logo JavaScript">
+    <img src="./img/logo-js.png" alt="logo JavaScript" width="3%">
     <p>Linguagem de programação usada para interatividade e lógica no Front-End e Back-End.</p>
     <hr>
-    <img src="./img/logo-react.png" alt="logo React">
+    <img src="./img/logo-react.png" alt="logo React" width="3%">
     <p>Biblioteca JavaScript para construção de interfaces reativas e escaláveis.</p>
 </div>
 
 <div class="dev">
     <h2>Back-End</h2>
-    <img src="./img/logo-php.png" alt="logo PHP">
+    <img src="./img/logo-php.png" alt="logo PHP" width="3%">
     <p>Linguagem de Back-End, usada para gerar páginas dinâmicas no servidor.</p>
     <hr>
-    <img src="./img/logo-node.png" alt="logo Node.js">
+    <img src="./img/logo-node.png" alt="logo Node.js" width="3%">
     <p>Ambiente para rodar JavaScript no servidor. Ideal para APIs e aplicações modernas.</p>
     <hr>
-    <img src="./img/logo-mysql.png" alt="logo MySQL">
+    <img src="./img/logo-mysql.png" alt="logo MySQL" width="3%">
     <p>Sistema de Banco de Dados Relacional, amplamente utilizado em sistemas Web.</p>
     <hr>
-    <img src="./img/logo-prisma.png" alt="logo Prisma ORM">
+    <img src="./img/logo-prisma.png" alt="logo Prisma ORM" width="3%">
     <p>ORM moderno para Node.js que facilita a interação com Bancos de Dados Relacionais.</p>
 </div>
 
 <div class="dev">
     <h2>Controle de Versão</h2>
-    <img src="./img/logo-git.png" alt="logo Git">
+    <img src="./img/logo-git.png" alt="logo Git" width="3%">
     <p>Sistema de controle de versão que permite salvar e rastrear mudanças no código.</p>
     <hr>
-    <img src="./img/logo-github.png" alt="logo GitHub">
+    <img src="./img/logo-github.png" alt="logo GitHub" width="3%">
     <p>Plataforma para hospedar, compartilhar e versionar projetos usando Git.</p>
 </div>
 
 <div class="dev">
     <h2>Design</h2>
-    <img src="./img/logo-figma.png" alt="logo Figma">  
+    <img src="./img/logo-figma.png" alt="logo Figma" width="3%">  
     <p>Ferramenta para design de interfaces, ideal para prototipagem e colaboração.</p>
 </div>
