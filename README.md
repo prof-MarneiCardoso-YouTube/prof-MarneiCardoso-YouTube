@@ -5,90 +5,109 @@
 #### Let’s Rock! 🚀
 
 ---
-<img src="./img/profile-YT.png" alt="profile picture" width="35%">
+<!-- <img src="./img/profile-YT.png" alt="profile picture" width="35%"> -->
+<img src="./img/profile-YT.png" alt="profile picture">
 
 ### Marnei Cardoso - Professor e Desenvolvedor
 
 Desenvolvimento Web do zero, com aulas práticas, didática simples e foco em quem está iniciando. Acompanhe os vídeos, refaça os projetos e compartilhe suas dúvidas e conquistas!
 
----
-🚀 <a href="https://www.youtube.com/@profMarneiCardoso?sub_confirmation=1" target="_blank">Canal no YouTube</a>  
+---  
+<div class="links">
+    <a href="https://www.youtube.com/@profMarneiCardoso?sub_confirmation=1" target="_blank">
+        <img src="./img/logo-yt.png" alt="logo YouTube">
+        Canal no YouTube
+    </a>
+</div>
 
-📷 <a href="https://www.instagram.com/prof.marnei.cardoso" target="_blank">Instagram</a>  
+<div class="links">
+    <a href="https://www.instagram.com/prof.marnei.cardoso" target="_blank">
+        <img src="./img/logo-instagram.png" alt="logo Instagram">
+        Instagram
+    </a>
+</div>
 
-📢 <a href="https://www.linkedin.com/in/marneicardoso" target="_blank">LinkedIn</a>  
+<div class="links">
+    <a href="https://www.linkedin.com/in/marneicardoso" target="_blank">
+        <img src="./img/logo-linkedin.png" alt="logo LinkedIn">
+        LinkedIn
+    </a>
+</div>
 
----
-<p>
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:seu@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
---- 
+---  
 ### Desenvolvimento Web com as principais linguagens e ferramentas do mercado.
 
 ## Front-End:
 
-<img src="./img/logo-html.png" alt="logo HTML" width="16%">
+<div class="dev">
+    <img src="./img/logo-html.png" alt="logo HTML">
+    <p>Linguagem de marcação usada para estruturar conteúdo das páginas Web.</p>
+    <hr>
+    <img src="./img/logo-css.png" alt="logo CSS">
+    <p>Linguagem para estilizar páginas Web (cores, fontes, layouts, animações, responsividade).</p>
+    <hr>
+    <img src="./img/logo-js.png" alt="logo JavaScript">
+    <p>Linguagem de programação usada para interatividade e lógica no Front-End e Back-End.</p>
+    <hr>
+    <img src="./img/logo-react.png" alt="logo React">
+    <p>Biblioteca JavaScript para construção de interfaces reativas e escaláveis.</p>
+</div>
 
-Linguagem de marcação usada para estruturar conteúdo das páginas Web.
+<div class="dev">
+    <h2>Back-End</h2>
+    <img src="./img/logo-php.png" alt="logo PHP">
+    <p>Linguagem de Back-End, usada para gerar páginas dinâmicas no servidor.</p>
+    <hr>
+    <img src="./img/logo-node.png" alt="logo Node.js">
+    <p>Ambiente para rodar JavaScript no servidor. Ideal para APIs e aplicações modernas.</p>
+    <hr>
+    <img src="./img/logo-mysql.png" alt="logo MySQL">
+    <p>Sistema de Banco de Dados Relacional, amplamente utilizado em sistemas Web.</p>
+    <hr>
+    <img src="./img/logo-prisma.png" alt="logo Prisma ORM">
+    <p>ORM moderno para Node.js que facilita a interação com Bancos de Dados Relacionais.</p>
+</div>
 
----
-<img src="./img/logo-css.png" alt="logo CSS" width="16%">
+<div class="dev">
+    <h2>Controle de Versão</h2>
+    <img src="./img/logo-git.png" alt="logo Git">
+    <p>Sistema de controle de versão que permite salvar e rastrear mudanças no código.</p>
+    <hr>
+    <img src="./img/logo-github.png" alt="logo GitHub">
+    <p>Plataforma para hospedar, compartilhar e versionar projetos usando Git.</p>
+</div>
 
-Linguagem para estilizar páginas Web (cores, fontes, layouts, animações, responsividade).
+<div class="dev">
+    <h2>Design</h2>
+    <img src="./img/logo-figma.png" alt="logo Figma">  
+    <p>Ferramenta para design de interfaces, ideal para prototipagem e colaboração.</p>
+</div>
 
----
-<img src="./img/logo-js.png" alt="logo JavaScript" width="16%">
 
-Linguagem de programação usada para interatividade e lógica no Front-End e Back-End.
 
----
-<img src="./img/logo-react.png" alt="logo React" width="16%">
+<!-- CSS Interno -->
+<style>
+    img {
+        width: 25%
+    }
 
-Biblioteca JavaScript para construção de interfaces reativas e escaláveis.
+    .links a {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        gap: 12px;
+        margin-bottom: 12px;
+    }
 
-## Back-End
+    .links img {
+        width: 3%;
+    }
 
-<img src="./img/logo-php.png" alt="logo PHP" width="20%">
+    .dev img {
+        width: 5%
+    }
 
-Linguagem de Back-End, usada para gerar páginas dinâmicas no servidor.
-
----
-<img src="./img/logo-node.png" alt="logo Node.js" width="28%">
-
-Ambiente para rodar JavaScript no servidor. Ideal para APIs e aplicações modernas.
-
----
-<img src="./img/logo-mysql.png" alt="logo MySQL" width="24%">
-
-Sistema de Banco de Dados Relacional, amplamente utilizado em sistemas Web.
-
----
-<img src="./img/logo-prisma.png" alt="logo Prisma ORM" width="18%">
-
-ORM moderno para Node.js que facilita a interação com Bancos de Dados Relacionais.
-
-## Controle de Versão
-
-<img src="./img/logo-git.png" alt="logo Git" width="16%">
-
-Sistema de controle de versão que permite salvar e rastrear mudanças no código.
-
----
-<img src="./img/logo-github.png" alt="logo GitHub" width="16%">
-
-Plataforma para hospedar, compartilhar e versionar projetos usando Git.
-
-## Design
-
-<img src="./img/logo-figma.png" alt="logo Figma" width="16%">  
-
-Ferramenta para design de interfaces, ideal para prototipagem e colaboração.
+    h2 {
+        margin-top: 64px;
+    }
+</style>
