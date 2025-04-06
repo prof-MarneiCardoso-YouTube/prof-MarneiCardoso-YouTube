@@ -12,11 +12,11 @@
 Desenvolvimento Web do zero, com aulas práticas, didática simples e foco em quem está iniciando. Acompanhe os vídeos, refaça os projetos e compartilhe suas dúvidas e conquistas!
 
 ---
-🚀 [Canal no YouTube]("https://www.youtube.com/@profMarneiCardoso?sub_confirmation=1" target="_blank")  
+🚀 <a href="https://www.youtube.com/@profMarneiCardoso?sub_confirmation=1" target="_blank">Canal no YouTube</a>  
 
-📷 [Instagram](https://www.instagram.com/prof.marnei.cardoso target="_blank")
+📷 <a href="https://www.instagram.com/prof.marnei.cardoso" target="_blank">Instagram</a>  
 
-📢 [LinkedIn](https://www.linkedin.com/in/marneicardoso target="_blank")
+📢 <a href="https://www.linkedin.com/in/marneicardoso" target="_blank">LinkedIn</a>  
 
 --- 
 ### Desenvolvimento Web com as principais linguagens e ferramentas do mercado.
