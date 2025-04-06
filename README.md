@@ -1,28 +1,81 @@
 # prof. Marnei Cardoso - YouTube
 
-### Buenas! Meu propósito é te ajudar a trabalhar com o que ama e ainda ganhar uma boa grana!
-### Boora transformar sonho em carreira?
-### Let’s Rock! 🚀
+#### Buenas! Meu propósito é te ajudar a trabalhar com o que ama e ainda ganhar uma boa grana!
+#### Boora transformar sonho em carreira?
+#### Let’s Rock! 🚀
+
+---
+<img src="./img/profile-YT.png" alt="profile picture" width="35%">
+
+### Marnei Cardoso - Professor e Desenvolvedor
+
+Desenvolvimento Web do zero, com aulas práticas, didática simples e foco em quem está iniciando. Acompanhe os vídeos, refaça os projetos e compartilhe suas dúvidas e conquistas!
+
+---
+🚀 [Canal no YouTube]("www.youtube.com/@profMarneiCardoso?sub_confirmation=1")  
+
+📷 [Instagram](https://www.instagram.com/prof.marnei.cardoso)
+
+📢 [LinkedIn](www.linkedin.com/in/marneicardoso)
 
 --- 
+### Desenvolvimento Web com as principais linguagens e ferramentas do mercado.
 
-<img src="https://github.com/prof-MarneiCardoso-YouTube/prof-MarneiCardoso-YouTube/blob/main/profile-YT.png" alt="profile picture" width="35%">
+## Front-End:
 
---- 
+<img src="./img/logo-html.png" alt="logo HTML" width="16%">
 
-## Marnei Cardoso - Professor e Desenvolvedor
+Linguagem de marcação usada para estruturar conteúdo das páginas Web.
 
-### O que temos no canal:
-- Desenvolvimento Web com as principais linguagens do mercado.
+---
+<img src="./img/logo-css.png" alt="logo CSS" width="16%">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+Linguagem para estilizar páginas Web (cores, fontes, layouts, animações, responsividade).
+
+---
+<img src="./img/logo-js.png" alt="logo JavaScript" width="16%">
+
+Linguagem de programação usada para interatividade e lógica no Front-End e Back-End.
+
+---
+<img src="./img/logo-react.png" alt="logo React" width="16%">
+
+Biblioteca JavaScript para construção de interfaces reativas e escaláveis.
+
+## Back-End
+
+<img src="./img/logo-php.png" alt="logo PHP" width="20%">
+
+Linguagem de Back-End, usada para gerar páginas dinâmicas no servidor.
+
+---
+<img src="./img/logo-node.png" alt="logo Node.js" width="28%">
+
+Ambiente para rodar JavaScript no servidor. Ideal para APIs e aplicações modernas.
+
+---
+<img src="./img/logo-mysql.png" alt="logo MySQL" width="24%">
+
+Sistema de Banco de Dados Relacional, amplamente utilizado em sistemas Web.
+
+---
+<img src="./img/logo-prisma.png" alt="logo Prisma ORM" width="18%">
+
+ORM moderno para Node.js que facilita a interação com Bancos de Dados Relacionais.
+
+## Controle de Versão
+
+<img src="./img/logo-git.png" alt="logo Git" width="16%">
+
+Sistema de controle de versão que permite salvar e rastrear mudanças no código.
+
+---
+<img src="./img/logo-github.png" alt="logo GitHub" width="16%">
+
+Plataforma para hospedar, compartilhar e versionar projetos usando Git.
+
+## Design
+
+<img src="./img/logo-figma.png" alt="logo Figma" width="16%">  
+
+Ferramenta para design de interfaces, ideal para prototipagem e colaboração.
