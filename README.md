@@ -4,5 +4,5 @@
 ### Boora transformar sonho em carreira?
 ### Let’s Rock! 🚀
 
-![profile-YT](https://github.com/user-attachments/assets/e050206b-1c94-4bf7-9c75-38150a5441f4)
+![profile-YT](https://github.com/user-attachments/assets/e050206b-1c94-4bf7-9c75-38150a5441f4?w=150)
 ## Marnei Cardoso - Professor e Desenvolvedor
