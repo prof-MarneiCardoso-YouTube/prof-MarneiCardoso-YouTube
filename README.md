@@ -4,15 +4,42 @@
 #### Boora transformar sonho em carreira?
 #### Let’s Rock! 🚀
 
+<!-- CSS Interno -->
+<style>
+    img {
+        width: 25%
+    }
+
+    .links a {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        gap: 12px;
+        margin-bottom: 12px;
+    }
+
+    .links img {
+        width: 3%;
+    }
+
+    .dev img {
+        width: 5%
+    }
+
+    h2 {
+        margin-top: 64px;
+    }
+</style>
+
 ---
 <!-- <img src="./img/profile-YT.png" alt="profile picture" width="35%"> -->
 <img src="./img/profile-YT.png" alt="profile picture">
 
-### Marnei Cardoso - Professor e Desenvolvedor
+<h3>Marnei Cardoso - Professor e Desenvolvedor</h3>
 
-Desenvolvimento Web do zero, com aulas práticas, didática simples e foco em quem está iniciando. Acompanhe os vídeos, refaça os projetos e compartilhe suas dúvidas e conquistas!
+<p>Desenvolvimento Web do zero, com aulas práticas, didática simples e foco em quem está iniciando. Acompanhe os vídeos, refaça os projetos e compartilhe suas dúvidas e conquistas!</p>
 
----  
+<hr>
 <div class="links">
     <a href="https://www.youtube.com/@profMarneiCardoso?sub_confirmation=1" target="_blank">
         <img src="./img/logo-yt.png" alt="logo YouTube">
@@ -34,10 +61,10 @@ Desenvolvimento Web do zero, com aulas práticas, didática simples e foco em qu
     </a>
 </div>
 
----  
-### Desenvolvimento Web com as principais linguagens e ferramentas do mercado.
+<hr>
+<h3>Desenvolvimento Web com as principais linguagens e ferramentas do mercado.</h3>
 
-## Front-End:
+<h2>Front-End:</h2>
 
 <div class="dev">
     <img src="./img/logo-html.png" alt="logo HTML">
@@ -82,32 +109,3 @@ Desenvolvimento Web do zero, com aulas práticas, didática simples e foco em qu
     <img src="./img/logo-figma.png" alt="logo Figma">  
     <p>Ferramenta para design de interfaces, ideal para prototipagem e colaboração.</p>
 </div>
-
-
-
-<!-- CSS Interno -->
-<style>
-    img {
-        width: 25%
-    }
-
-    .links a {
-        display: flex;
-        justify-content: flex-start;
-        align-items: center;
-        gap: 12px;
-        margin-bottom: 12px;
-    }
-
-    .links img {
-        width: 3%;
-    }
-
-    .dev img {
-        width: 5%
-    }
-
-    h2 {
-        margin-top: 64px;
-    }
-</style>
