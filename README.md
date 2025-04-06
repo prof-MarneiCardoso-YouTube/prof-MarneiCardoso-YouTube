@@ -5,7 +5,7 @@
 #### Let’s Rock! 🚀
 
 <!-- CSS Interno -->
-<style>
+<!-- <style>
     img {
         width: 25%
     }
@@ -29,11 +29,11 @@
     h2 {
         margin-top: 64px;
     }
-</style>
+</style> -->
 
 ---
-<!-- <img src="./img/profile-YT.png" alt="profile picture" width="35%"> -->
-<img src="./img/profile-YT.png" alt="profile picture">
+<img src="./img/profile-YT.png" alt="profile picture" width="35%">
+<!-- <img src="./img/profile-YT.png" alt="profile picture"> -->
 
 <h3>Marnei Cardoso - Professor e Desenvolvedor</h3>
 
