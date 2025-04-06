@@ -18,6 +18,19 @@ Desenvolvimento Web do zero, com aulas práticas, didática simples e foco em qu
 
 📢 <a href="https://www.linkedin.com/in/marneicardoso" target="_blank">LinkedIn</a>  
 
+---
+<p>
+  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/seu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:seu@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 --- 
 ### Desenvolvimento Web com as principais linguagens e ferramentas do mercado.
 
