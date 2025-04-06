@@ -42,21 +42,21 @@
 <hr>
 <div class="links">
     <a href="https://www.youtube.com/@profMarneiCardoso?sub_confirmation=1" target="_blank">
-        <img src="./img/logo-yt.png" alt="logo YouTube">
+        <img src="./img/logo-yt.png" alt="logo YouTube" width="3%">
         Canal no YouTube
     </a>
 </div>
 
 <div class="links">
     <a href="https://www.instagram.com/prof.marnei.cardoso" target="_blank">
-        <img src="./img/logo-instagram.png" alt="logo Instagram">
+        <img src="./img/logo-instagram.png" alt="logo Instagram" width="3%">
         Instagram
     </a>
 </div>
 
 <div class="links">
     <a href="https://www.linkedin.com/in/marneicardoso" target="_blank">
-        <img src="./img/logo-linkedin.png" alt="logo LinkedIn">
+        <img src="./img/logo-linkedin.png" alt="logo LinkedIn" width="3%">
         LinkedIn
     </a>
 </div>
