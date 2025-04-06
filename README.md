@@ -32,7 +32,7 @@
 </style>
 
 ---
-<img src="./img/profile-YT.png" alt="profile picture" width="15%">
+<img src="./img/profile-YT.png" alt="profile picture" width="35%">
 <!-- <img src="./img/profile-YT.png" alt="profile picture"> -->
 
 <h3>Marnei Cardoso - Professor e Desenvolvedor</h3>
@@ -42,21 +42,21 @@
 <hr>
 <div class="links">
     <a href="https://www.youtube.com/@profMarneiCardoso?sub_confirmation=1" target="_blank">
-        <img src="./img/logo-yt.png" alt="logo YouTube" width="15%">
+        <img src="./img/logo-yt.png" alt="logo YouTube" width="5%">
         Canal no YouTube
     </a>
 </div>
 
 <div class="links">
     <a href="https://www.instagram.com/prof.marnei.cardoso" target="_blank">
-        <img src="./img/logo-instagram.png" alt="logo Instagram" width="15%">
+        <img src="./img/logo-instagram.png" alt="logo Instagram" width="5%">
         Instagram
     </a>
 </div>
 
 <div class="links">
     <a href="https://www.linkedin.com/in/marneicardoso" target="_blank">
-        <img src="./img/logo-linkedin.png" alt="logo LinkedIn" width="35%">
+        <img src="./img/logo-linkedin.png" alt="logo LinkedIn" width="5%">
         LinkedIn
     </a>
 </div>
