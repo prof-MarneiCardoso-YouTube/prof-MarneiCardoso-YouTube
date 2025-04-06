@@ -4,7 +4,10 @@
 ### Boora transformar sonho em carreira?
 ### Let’s Rock! 🚀
 
-<img src="https://github.com/prof-MarneiCardoso-YouTube/prof-MarneiCardoso-YouTube/blob/main/profile-YT.png" alt="profile picture" width="150px">
+--- 
 
-![profile-YT](https://github.com/user-attachments/assets/e050206b-1c94-4bf7-9c75-38150a5441f4?w=150)
+<img src="https://github.com/prof-MarneiCardoso-YouTube/prof-MarneiCardoso-YouTube/blob/main/profile-YT.png" alt="profile picture" width="35%">
+
+--- 
+
 ## Marnei Cardoso - Professor e Desenvolvedor
